@@ -32,9 +32,3 @@ Role Focus: AI/ML Engineering
 In support of The Audit Lab (Streamlit/Python):http://github.com/hajranaik/Hajra_Naik-AI-ML-Engineer-/blob/main/MVP%20user%20app.mp4
 
 The MVP User app(Flutter/Dart):https://github.com/hajranaik/Hajra_Naik-AI-ML-Engineer-/blob/main/Streamlit%20video.mp4
-
-
-
-Submission Date: February 2, 2026 
-
-Would you like me to help you write the "Assumptions and Scalability" section for your Solution Document next?
